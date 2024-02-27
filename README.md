@@ -1,2 +1,2 @@
-# 2-repo
+# two-repo
 practice
